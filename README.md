@@ -1,6 +1,6 @@
 # Automated-image-classification
 This Repo is for self learning purpose and currently underdevlopment
-
+This Repo is usefull for those who have less data for traning the deep learning model and have to train the model again and again for increment of accuracy of model 
 
 In this project 
 
@@ -12,3 +12,12 @@ In this project
 6) And retrain the image classification model from server and save that model on server so that our accuarcy will increase daily or weekly basis 
 
 7) lastly we run a mailer script so that what % accuracy of model is increased also we use mailer for any type of report 
+
+
+Requiremnet 
+Flask
+Docker
+Python
+CNN deep learning with keras
+Mongodb
+Cronjob
