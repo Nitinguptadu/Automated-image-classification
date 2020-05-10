@@ -8,7 +8,7 @@ In this project
 1) Tranning _Model.ipynb  
   
   A) Trainning a deep learning model and saving trained deep learning model in Mongodb Local server
-
+    a) Training image dir name ["Train"] 
 
 2) Saving_Result_Mongodb.ipynb
 
