@@ -1,10 +1,12 @@
 # Automated-image-classification
 This Repo is for self learning purpose and currently underdevlopment
+
 This Repo is usefull for those who have less data for traning the deep learning model and have to train the model again and again for increment of accuracy of model 
 
 In this project 
 
 1) Tranning _Model.ipynb  
+  
   A) Trainning a deep learning model and saving trained deep learning model in Mongodb Local server
 
 
@@ -27,7 +29,9 @@ In this project
  3) Retrain_Deep_learning_model.ipynb
   
   A) importing DataFrame from from Mongodb if accuracy is more than 95%
+  
   B) Coverting Base_64 string into image and save in download dir
+  
   C) For Balancing Data created def save() user define function
      a) if cat image(15) data is More than dog image(10) then randomly delete 5 cat image automatically same for dog class
 
