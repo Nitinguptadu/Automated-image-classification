@@ -39,6 +39,8 @@ In this project
 
 
  4) lastly we run a mailer script so that what % accuracy of model is increased also we use mailer for any type of report 
+ 
+ 5) flask Dir consits app_mongdb that create a database in mongodb and  using retrain model.ipynb notebook to retrain the model  
 
 
 Requiremnet 
