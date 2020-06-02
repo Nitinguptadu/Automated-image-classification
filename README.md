@@ -51,3 +51,21 @@ Python
 CNN deep learning with keras
 Mongodb
 Cronjob
+Virtualenv 
+
+
+For creating Virtualenv commands
+
+1) pip install virtualenv
+
+2) virtualenv Bot   # here bot is dir name 
+
+3) cd Destop/Bot    # go inside your dir
+
+4) source bin/activate  # activating virtualenv
+
+5) pip freeeze  # for seeing packages in your virtual env or in local system
+
+6) pip freeze requirement.txt  for coping all packages and it's version in .txt
+
+7) deactivate  # for coming out of virtual env 
